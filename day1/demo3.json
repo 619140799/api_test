@@ -1,0 +1,8 @@
+{
+  "url": "http://www.tuling123.com/openapi/api",
+  "method": "get",
+  "params": {
+    "key": "ec961279f453459b9248f0aeb6600bbe",
+    "info": "你好"
+  }
+}
